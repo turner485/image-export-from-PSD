@@ -1,0 +1,5 @@
+psd-tools
+numpy
+scipy
+tqdm
+requests
